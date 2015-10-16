@@ -1,0 +1,29 @@
+{
+  "name": "angular-bootstrap-alert",
+  "main": "angular-bootstrap-alert.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tranquilopt/angular-bootstrap-alert",
+  "authors": [
+    "Ricardo Cunha <ricardocunha@tranquilo.pt>"
+  ],
+  "description": "Angular Bootstrap Alert Directive",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "alert",
+    "dismissable"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0"
+  }
+}

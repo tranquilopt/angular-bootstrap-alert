@@ -1,0 +1,30 @@
+{
+  "name": "angular-bootstrap-alert",
+  "main": "angular-bootstrap-alert.js",
+  "version": "0.0.1",
+  "description": "Angular directive to use Bootstrap dismissable alerts.",
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "alert",
+    "dismissable",
+    "directive"
+  ],
+  "dependencies": {
+    "angular": "^1.4.7",
+    "bower": "^1.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranquilo/angular-tauCharts.git"
+  },
+  "author": "Ricardo Cunha <ricardocunha@tranquilo.pt>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tranquilo/angular-tauCharts/issues"
+  },
+  "homepage": "https://github.com/tranquilo/angular-tauCharts#readme",
+  "scripts": {
+    "postinstall": "bower install --config.interactive=false"
+  }
+}

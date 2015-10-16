@@ -1,0 +1,8 @@
+# IntelliJ project files
+node_modules
+bower_components
+.idea
+out
+gen
+dist
+# Created by .ignore support plugin (hsz.mobi)
